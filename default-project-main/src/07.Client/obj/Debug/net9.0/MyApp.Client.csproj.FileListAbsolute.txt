@@ -1,0 +1,11 @@
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/bin/Debug/net9.0/MyApp.Client.deps.json
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/bin/Debug/net9.0/MyApp.Client.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/bin/Debug/net9.0/MyApp.Client.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/MyApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/MyApp.Client.AssemblyInfoInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/MyApp.Client.AssemblyInfo.cs
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/MyApp.Client.csproj.CoreCompileInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/MyApp.Client.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/refint/MyApp.Client.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/MyApp.Client.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/07.Client/obj/Debug/net9.0/ref/MyApp.Client.dll

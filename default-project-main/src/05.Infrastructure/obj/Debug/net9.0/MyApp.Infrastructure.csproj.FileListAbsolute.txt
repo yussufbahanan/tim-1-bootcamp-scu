@@ -1,0 +1,11 @@
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/bin/Debug/net9.0/MyApp.Infrastructure.deps.json
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/bin/Debug/net9.0/MyApp.Infrastructure.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/bin/Debug/net9.0/MyApp.Infrastructure.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/MyApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/MyApp.Infrastructure.AssemblyInfo.cs
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/MyApp.Infrastructure.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/refint/MyApp.Infrastructure.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/MyApp.Infrastructure.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/05.Infrastructure/obj/Debug/net9.0/ref/MyApp.Infrastructure.dll
