@@ -1,0 +1,11 @@
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/bin/Debug/net9.0/MyApp.Application.deps.json
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/bin/Debug/net9.0/MyApp.Application.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/bin/Debug/net9.0/MyApp.Application.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/MyApp.Application.AssemblyInfoInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/MyApp.Application.AssemblyInfo.cs
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/MyApp.Application.csproj.CoreCompileInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/MyApp.Application.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/refint/MyApp.Application.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/MyApp.Application.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/04.Application/obj/Debug/net9.0/ref/MyApp.Application.dll
