@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daftar Music</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">
+      <button class="icon-button"></button> MUSIC
+    </div>
+    <div class="nav-links">
+      <a href="#" class="signup">Daftar Sekarang</a>
+      <a href="#" class="login-btn">Masuk</a>
+    </div>
+  </header>
+    <div class="Judul">
+      <h2>Selamat Datang Musikers!</h2>
+      <p>Yuk daftar terlebih dahulu akun kamu</p>  
+    </div>
+    
+  <div class="container-form"> 
+    
+    <form class="register-form">
+      <input type="text" placeholder="Masukkan Nama Lengkap" required>
+      <input type="email" placeholder="Masukkan Email" required>
+      <input type="password" placeholder="Masukkan Password" required>
+      <input type="password" placeholder="Konfirmasi Password" required>
+
+       <div class="form-footer">
+        <button type="submit" class="btn-daftar">Daftar</button>
+        <p class="login-link">Sudah punya akun? <a href="#">Login disini</a></p>
+      </div>
+
+    </form>
+
+   
+    
+    </p>
+  </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector(".register-form");
+    const daftarBtn = document.querySelector(".btn-daftar");
+
+    daftarBtn.addEventListener("click", function (e) {
+      e.preventDefault(); // Mencegah form dikirim secara default
+
+      const nama = form.elements[0].value.trim();
+      const email = form.elements[1].value.trim();
+      const password = form.elements[2].value;
+      const konfirmasiPassword = form.elements[3].value;
+
+      // Validasi nama
+      if (nama === "") {
+        alert("Nama lengkap wajib diisi.");
+        return;
+      }
+
+      // Validasi email
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!emailRegex.test(email)) {
+        alert("Masukkan email yang valid.");
+        return;
+      }
+
+      // Validasi password
+      if (password.length < 6) {
+        alert("Password minimal 6 karakter.");
+        return;
+      }
+
+      // Validasi konfirmasi password
+      if (password !== konfirmasiPassword) {
+        alert("Konfirmasi password tidak cocok.");
+        return;
+      }
+
+      // Jika semua valid
+      alert("Pendaftaran berhasil!");
+      form.submit(); // Kirim form jika semua valid
+    });
+  });
+</script>
+</body>
+</html>

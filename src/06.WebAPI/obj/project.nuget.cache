@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBmPOtcJb2o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adamb\\Source\\Repos\\tim-1-bootcamp-scu\\default-project-main\\src\\06.WebAPI\\MyApp.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\adamb\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

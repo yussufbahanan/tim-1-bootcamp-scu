@@ -1,0 +1,11 @@
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/bin/Debug/net9.0/MyApp.Shared.deps.json
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/bin/Debug/net9.0/MyApp.Shared.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/bin/Debug/net9.0/MyApp.Shared.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/MyApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/MyApp.Shared.AssemblyInfoInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/MyApp.Shared.AssemblyInfo.cs
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/MyApp.Shared.csproj.CoreCompileInputs.cache
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/MyApp.Shared.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/refint/MyApp.Shared.dll
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/MyApp.Shared.pdb
+/Users/krisnafirdaus/Desktop/MyApp/src/03.Shared/obj/Debug/net9.0/ref/MyApp.Shared.dll
