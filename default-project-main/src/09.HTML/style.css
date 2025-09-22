@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #fff;
+  color: #333;
+}
+
+.navbar {
+  background-color: #f4b400; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 45px;
+  border-radius: 0 0 20px 20px;
+}
+
+.icon-button{
+  width: 22px;
+  height: 22px;
+  background-image: url('img/apple.png');
+  background-size: cover;
+  background-position: center;
+  background-color: transparent; 
+  border: none; 
+  cursor: pointer; 
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.apple {
+  font-size: 22px;
+  margin-right: 4px;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.signup {
+  color: #333;
+}
+
+.login-btn {
+  background-color: #3366ff;
+  color: #fff;
+  padding: 8px 18px;
+  border-radius: 6px;
+}
+
+/* Container */
+
+.Judul {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.container-form{
+  max-width: 800px;
+  margin: 60px auto;
+  text-align: center;
+  background: none;
+  box-shadow: none;
+  padding: 0;
+  border-radius: 0;
+}
+
+.container h2 {
+  margin-bottom: 40px;
+  font-size: 24px;
+}
+
+.container p {
+  margin-bottom: 25px;
+  color: #555;
+}
+
+/* Form */
+.register-form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.btn-daftar {
+  padding: 12px 40px;
+  font-size: 16px;
+  background-color: #3366ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-daftar:hover {
+  background-color: #2851cc;
+}
+
+
+.login-link {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.login-link a {
+  color: #3366ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
+
+.form-footer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+
+
+
